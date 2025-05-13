@@ -1,0 +1,90 @@
+name: Aesthetic Gaming Server Template
+description: Bold font + emojis + giveaways, clan tags, tickets, and vouch system.
+channels:
+  - name: 📚 𝐈𝐧𝐟𝐨𝐫𝐦𝐚𝐭𝐢𝐨𝐧
+    type: category
+    channels:
+      - name: 📜・𝐫𝐮𝐥𝐞𝐬
+        type: text
+      - name: 📢・𝐚𝐧𝐧𝐨𝐮𝐧𝐜𝐞𝐦𝐞𝐧𝐭𝐬
+        type: text
+      - name: 👋・𝐢𝐧𝐭𝐫𝐨𝐝𝐮𝐜𝐭𝐢𝐨𝐧𝐬
+        type: text
+      - name: ❓・𝐟𝐚𝐪
+        type: text
+
+  - name: 💬 𝐂𝐨𝐦𝐦𝐮𝐧𝐢𝐭𝐲
+    type: category
+    channels:
+      - name: 💬・𝐠𝐞𝐧𝐞𝐫𝐚𝐥-𝐜𝐡𝐚𝐭
+        type: text
+      - name: 🖼️・𝐦𝐞𝐝𝐢𝐚-𝐬𝐡𝐚𝐫𝐞
+        type: text
+      - name: 💡・𝐬𝐮𝐠𝐠𝐞𝐬𝐭𝐢𝐨𝐧𝐬
+        type: text
+
+  - name: 🎮 𝐆𝐚𝐦𝐢𝐧𝐠
+    type: category
+    channels:
+      - name: 🎮・𝐠𝐚𝐦𝐞-𝐝𝐢𝐬𝐜𝐮𝐬𝐬𝐢𝐨𝐧
+        type: text
+      - name: 📆・𝐠𝐚𝐦𝐞-𝐞𝐯𝐞𝐧𝐭𝐬
+        type: text
+      - name: 📰・𝐠𝐚𝐦𝐞-𝐧𝐞𝐰𝐬
+        type: text
+
+  - name: 🎁 𝐆𝐢𝐯𝐞𝐚𝐰𝐚𝐲𝐬
+    type: category
+    channels:
+      - name: 🎉・𝐠𝐢𝐯𝐞𝐚𝐰𝐚𝐲𝐬
+        type: text
+      - name: 🏆・𝐰𝐢𝐧𝐧𝐞𝐫𝐬
+        type: text
+
+  - name: 🏷️ 𝐂𝐥𝐚𝐧 𝐓𝐚𝐠𝐬
+    type: category
+    channels:
+      - name: 🛡️・𝐜𝐥𝐚𝐧-𝐫𝐞𝐠𝐢𝐬𝐭𝐞𝐫
+        type: text
+      - name: 🏷️・𝐜𝐥𝐚𝐧-𝐥𝐢𝐬𝐭
+        type: text
+      - name: ⚔️・𝐜𝐥𝐚𝐧-𝐛𝐚𝐭𝐭𝐥𝐞𝐬
+        type: text
+
+  - name: 🎫 𝐓𝐢𝐜𝐤𝐞𝐭 𝐒𝐮𝐩𝐩𝐨𝐫𝐭
+    type: category
+    channels:
+      - name: 📩・𝐨𝐩𝐞𝐧-𝐚-𝐭𝐢𝐜𝐤𝐞𝐭
+        type: text
+      - name: 🛠️・𝐭𝐢𝐜𝐤𝐞𝐭-𝐥𝐨𝐠𝐬
+        type: text
+
+  - name: ✅ 𝐕𝐨𝐮𝐜𝐡 𝐒𝐲𝐬𝐭𝐞𝐦
+    type: category
+    channels:
+      - name: 📑・𝐯𝐨𝐮𝐜𝐡-𝐦𝐲-𝐬𝐞𝐫𝐯𝐢𝐜𝐞
+        type: text
+      - name: 📋・𝐯𝐨𝐮𝐜𝐡-𝐥𝐢𝐬𝐭
+        type: text
+
+  - name: 🎵 𝐌𝐮𝐬𝐢𝐜
+    type: category
+    channels:
+      - name: 🎧・𝐦𝐮𝐬𝐢𝐜-𝐜𝐡𝐚𝐭
+        type: text
+      - name: 🎶・𝐬𝐨𝐧𝐠-𝐫𝐞𝐪𝐮𝐞𝐬𝐭𝐬
+        type: text
+      - name: 🤖・𝐛𝐨𝐭-𝐜𝐨𝐦𝐦𝐚𝐧𝐝𝐬
+        type: text
+
+  - name: 🔊 𝐕𝐨𝐢𝐜𝐞 𝐂𝐡𝐚𝐧𝐧𝐞𝐥𝐬
+    type: category
+    channels:
+      - name: 🔊・𝐆𝐞𝐧𝐞𝐫𝐚𝐥 𝐕𝐂
+        type: voice
+      - name: 🕹️・𝐆𝐚𝐦𝐢𝐧𝐠 𝐕𝐂
+        type: voice
+      - name: 🎵・𝐌𝐮𝐬𝐢𝐜 𝐕𝐂
+        type: voice
+      - name: 🌙・𝐀𝐅𝐊
+        type: voice
